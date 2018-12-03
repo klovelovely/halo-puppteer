@@ -10,5 +10,9 @@ npm i
 
 ### screenshot.js
 ```bash
-node screenshot.js https://www.bing.com
+node screenshot https://www.bing.com
+```
+or
+```bash
+npm run screenshot -- https://cn.bing.com
 ```
