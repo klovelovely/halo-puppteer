@@ -1,0 +1,14 @@
+{
+  "name": "halo-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "jietu": "node screenshot.js"
+  },
+  "keywords": [],
+  "author": "Kavalon <klovelovely@live.com> (http://mar.moe)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "description": ""
+}
