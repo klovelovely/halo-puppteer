@@ -1,7 +1,14 @@
-# headless tools
-Yet another one.
+# Halo. Allo.
+Yet another one headless toolkit.
 
 # Usage
 
+### prepare
+```bash
+npm i
+```
+
 ### screenshot.js
-node screenshot.js https://www.qq.com
+```bash
+node screenshot.js https://www.bing.com
+```
